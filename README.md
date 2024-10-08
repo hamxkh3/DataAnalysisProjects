@@ -13,12 +13,14 @@ A data survey Dashboard focused on professionals working in various data roles, 
 
 Track the number of survey takers and categorize them by country.
 Analyze the distribution of roles across different regions (countries such as the U.S., Canada, India, etc).
+
 ![surveytakers](https://github.com/user-attachments/assets/c811070d-b6a6-494c-8c8d-daf7f6be6766)
 
 
 #### Compare Salary Information by Country and Job Role
 Display average salaries by country and compare the earnings of various data roles (data analysts, data engineers, etc.).
 Show how salary trends vary between countries and between job titles.
+
 ![salarybycountryjobtitle](https://github.com/user-attachments/assets/1cb87c62-d691-44ba-8662-386c0fa1372f)
 
 
