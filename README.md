@@ -31,7 +31,7 @@ Evaluate satisfaction with work-life balance (average score of "5.74").
 Capture and display the average age of survey takers (29.87 years in the given dashboard).
 Provide insights into how career level and salary satisfaction might vary with age.
 
-## Expected Outcomes
+## Outcomes
 
 #### Insight into Global Salary Trends:
 The dashboard enables a clear understanding of how salaries differ across countries for various data-related job titles. For instance, data scientists may earn more on average compared to other roles.
