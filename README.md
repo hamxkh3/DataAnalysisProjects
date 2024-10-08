@@ -25,6 +25,7 @@ Show how salary trends vary between countries and between job titles.
 #### Measure Job Satisfaction
 Assess the satisfaction of survey participants regarding their salary (shown through an average score of "4.27" in the dashboard).
 Evaluate satisfaction with work-life balance (average score of "5.74").
+
 ![gauge](https://github.com/user-attachments/assets/61a2e1aa-82bb-4494-a946-eb1264279fdb)
 
 #### Analyze Age Distribution
