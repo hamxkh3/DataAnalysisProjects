@@ -6,37 +6,37 @@
 
 
 ## Project Details
-A data survey Dashboard focused on professionals working in various data roles, such as data analysts, data architects, data engineers, and data scientists. The dashboard contains multiple visualizations and key metrics. Below are the likely objectives and outcomes of this project:
+This is a Data Survey Dashboard which focuses on professionals working in various data roles, such as data analysts, data architects, data engineers, and data scientists. The Dashboard contains multiple visualizations and key metrics. Below are the objectives and outcomes of this project:
 
 ## Objectives
-### Understand the Demographics of Data Professionals
+### Understanding the Demographics of Data Professionals
 
-Track the number of survey takers and categorize them by country.
-Analyze the distribution of roles across different regions (countries such as the U.S., Canada, India, etc).
+Tracking the number of survey takers and categorize them by country.
+Analyzing the distribution of roles across different regions (countries such as the U.S., Canada, India, etc).
 
 ![surveytakers](https://github.com/user-attachments/assets/c811070d-b6a6-494c-8c8d-daf7f6be6766)
 
 
-#### Compare Salary Information by Country and Job Role
-Display average salaries by country and compare the earnings of various data roles (data analysts, data engineers, etc.).
-Show how salary trends vary between countries and between job titles.
+#### Comparing Salary Information by Country and Job Role
+Displaying average salaries by country and compare the earnings of various data roles (data analysts, data engineers, etc.).
+Showing how salary trends vary between countries and between job titles.
 
 ![salarybycountryjobtitle](https://github.com/user-attachments/assets/1cb87c62-d691-44ba-8662-386c0fa1372f)
 
 
-#### Measure Job Satisfaction
-Assess the satisfaction of survey participants regarding their salary (shown through an average score of "4.27" in the dashboard).
+#### Measuring Job Satisfaction
+Assessing the satisfaction of survey participants regarding their salary (shown through an average score of "4.27" in the dashboard).
 Evaluate satisfaction with work-life balance (average score of "5.74").
 
 ![gauge](https://github.com/user-attachments/assets/61a2e1aa-82bb-4494-a946-eb1264279fdb)
 
-#### Analyze Age Distribution
-Capture and display the average age of survey takers (29.87 years in the given dashboard).
+#### Analyzing Age Distribution
+Capturing and displaying the average age of survey takers (29.87 years in the given dashboard).
 Provide insights into how career level and salary satisfaction might vary with age.
 
 ## Outcomes
 
-#### Insight into Global Salary Trends:
+#### Insights into Global Salary Trends:
 The dashboard enables a clear understanding of how salaries differ across countries for various data-related job titles. For instance, data scientists may earn more on average compared to other roles.
 Understanding Satisfaction with Salary and Work-Life 
 
