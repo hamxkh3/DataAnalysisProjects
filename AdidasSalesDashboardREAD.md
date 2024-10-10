@@ -1,6 +1,6 @@
 # Adidas Sales Power BI Dashboard
 
-### Dashboard Link: https://app.powerbi.com/groups/me/reports/854cfc35-74ff-4fcd-826c-6e018991bdd3?pbi_source=desktop
+### Dashboard Link: [https://app.powerbi.com/groups/me/reports/854cfc35-74ff-4fcd-826c-6e018991bdd3?pbi_source=desktop](https://app.powerbi.com/groups/me/reports/854cfc35-74ff-4fcd-826c-6e018991bdd3/ec92df656513d80e5b07?experience=power-bi)
  
 ![adidasLogoDashboard](https://github.com/user-attachments/assets/54ed2af6-99bc-4ff0-8799-d65cfd58de03)
 
