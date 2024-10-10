@@ -2,7 +2,7 @@
 
 ### Dashboard Link: https://app.powerbi.com/groups/me/reports/854cfc35-74ff-4fcd-826c-6e018991bdd3?pbi_source=desktop
  
-![image](https://github.com/user-attachments/assets/4416cdbb-5bcb-43d8-8a50-3108f2ee9eea)
+![adidasLogoDashboard](https://github.com/user-attachments/assets/54ed2af6-99bc-4ff0-8799-d65cfd58de03)
 
 
 
